@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Akshay Sharma  
 
 ### 🚀 Public Sector Professional → AI/ML Engineer  
-### Bridging 9+ years of real-world experience with the power of Data, AI & Intelligent Systems
+### Bridging 10+ years of real-world experience with the power of Data, AI & Intelligent Systems
 
 ---
 
@@ -102,7 +102,7 @@ If you're working in AI, ML, MLOps, or agentic systems — **I would love to con
 ---
 
 ## 🤝 **Let’s Connect!**
-📌 **LinkedIn:** www.linkedin.com/in/akshaye-sharrmaa-5b4035aa
+📌 **LinkedIn:** https://www.linkedin.com/in/akshay-sharmma-5b4035aa
 📌 **GitHub:** https://github.com/AKAK555  
 
 ---
