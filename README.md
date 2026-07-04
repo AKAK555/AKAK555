@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Akshay Sharma  
+# 👋 Hi, I’m Akshay Sharmma  
 
 ### 🚀 Public Sector Professional → AI/ML Engineer  
 ### Bridging 10+ years of real-world experience with the power of Data, AI & Intelligent Systems
