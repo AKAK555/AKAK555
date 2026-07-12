@@ -1,110 +1,69 @@
-# 👋 Hi, I’m Akshaay Sharma  
+👋 Hi, I’m Akshaay Sharma
 
-### 🚀 Public Sector Professional → AI/ML Engineer  
-### Bridging 10+ years of real-world experience with the power of Data, AI & Intelligent Systems
+🚀 Enterprise AI/ML Engineer | Generative AI & Orchestration
 
----
+Bridging 10+ years of Public Sector governance with highly secure, scalable Machine Intelligence.
 
-## 🌱 **My Story: From Public Sector to AI**
+🌱 My Engineering Philosophy
 
-For the last **9+ years**, I’ve worked in the **public sector**, solving real human problems, managing critical operations, and leading teams through high-pressure, time-sensitive environments.  
+For the past 9+ years, I’ve managed critical operations and led teams through high-pressure, time-sensitive environments in the public sector.
 
-During this journey, one thing became crystal clear:
+During this journey, I recognized that the future of institutional scaling lies not in policy, but in Agentic AI and intelligent automation.
 
-> **Technology—especially AI—will reshape the world more than any policy ever will.  
-And I wanted to be part of that future.**
+Today, I engineer production-grade AI systems. I combine the strict data governance, security, and process discipline of my public-sector background with modern machine learning architectures to build AI systems that don't just generate text—they securely act, reason, and integrate with enterprise workflows.
 
-That realization sparked my transition into **Data Science, Machine Learning, and Agentic AI Systems**.
+🤖 Current Portfolio Architectures
 
-Today, I’m building intelligent agents, LLM workflows, real-time search-enabled chatbots, and full AI systems from scratch—combining the discipline of my public-sector background with the creativity of machine intelligence.
+I focus on building secure, multi-agent orchestrations and MLOps deployments. Here are the core architectures I am actively developing:
 
----
+🔹 Project 1: Enterprise Compliance Swarm (Agentic AI) A deterministic, multi-agent LangGraph system designed to autonomously audit corporate documents against regulatory frameworks (like the DPDP Act).
 
-## 🤖 **What I Build Today**
-I’m passionate about creating **AI systems that act, think, search, reason, and respond**.
+Architecture: FastAPI backend, LangGraph stateful cyclic routing, Streamlit telemetry dashboard.
 
-Here are some of the projects I’m most proud of:
+Core Mechanics: Supervisor routing, autonomous tool execution (Tavily), and strict Pydantic output validation.
 
-### 🔹 **Agentic AI Chatbot**  
-A multi-module AI system with:  
-- Basic conversational AI  
-- Tavily-powered live web search  
-- AI News Generator (summaries for past day/week/month/year)  
-- Stateful agent flows powered by **LangGraph**  
-- Ultra-fast LLM inference with **Groq**  
-- Built with **FastAPI**, **Streamlit**, **LangChain**
+Inference: Ultra-fast sub-second token generation via Groq.
 
-### 🔹 **Multilingual Blog Generator**  
-Generate blogs in **English**, **Hindi**, and **French**, using:  
-- SEO-optimized title generation  
-- Markdown-rich content creation  
-- Language-aware cultural translation  
-- Agentic conditional routing  
-- Fully API-driven and UI integrated  
+🔹 Project 2: Serverless Commodities Engine (Time-Series & Risk) An automated risk-scoring pipeline integrating historical time-series forecasting with real-time financial sentiment analysis.
 
-These aren’t just demos — they’re real, production-ready, end-to-end AI systems.
+Architecture: Deep Learning LSTM / XGBoost core, deployed on AWS Lambda via automated CI/CD pipelines.
 
----
+Core Mechanics: Data drift monitoring (Evidently AI) and rigorous offline/online feature engineering.
 
-## 🧠 **What I’m Learning Right Now**
-- Agentic AI with **LangGraph**
-- LLM Orchestration & Structured Output
-- High-performance inference with **Groq**
-- Modern data engineering fundamentals
-- MLOps best practices
-- Vector Search + Embeddings (Chroma DB)
-- Prompt engineering for multilingual apps
+🔹 Project 3: Secure Knowledge Gateway (RAG & Guardrails) An advanced Retrieval-Augmented Generation pipeline built with strict data privacy isolation layers.
 
-Every line of code I write brings me one step closer to building meaningful AI systems people can actually use.
+Architecture: Sentence-Window retrieval, Cross-Encoder reranking, and HNSW vector indexing.
 
----
+Core Mechanics: Implementation of the Model Context Protocol (MCP) and semantic firewalls (NeMo Guardrails) to prevent prompt injections and data leakage.
 
-## 🎯 **Why This Transition Matters to Me**
-Coming from the public sector, I carry values that AI desperately needs:  
+⚙️ Technical Stack & Competencies
 
-- **Integrity**  
-- **Patience**  
-- **Process discipline**  
-- **Empathy for real people**  
-- **Systems thinking**  
+Core Languages: Python • Advanced SQL (Window Functions, CTEs)
 
-AI isn’t just math and models.  
-It’s about understanding people, problems, and impact — and that’s where my journey gives me a unique edge.
+AI Orchestration & LLMs: LangGraph • LangChain • Hugging Face (Transformers) • Groq • OpenAI API
 
----
+Classical ML & Deep Learning: Scikit-Learn • PyTorch • XGBoost • Pandas • NumPy
 
-## ⚙️ **Tech Stack I Work With**
-**Languages:**  
-`Python` • `SQL` • `Markdown`  
+MLOps, Infrastructure & Deployment: Docker • AWS (Lambda/S3) • FastAPI • Streamlit • Chroma DB (Vector Search)
 
-**AI & ML:**  
-`LangChain` • `LangGraph` • `Groq` • `OpenAI / GPT API` • `HuggingFace` • `Tavily`  
+🎯 Why My Background is My Edge
 
-**Frameworks:**  
-`FastAPI` • `Streamlit`  
+Enterprise AI is struggling with a massive problem: Security and Compliance.
 
-**Data & Systems:**  
-`Chroma DB` • `Docker` • `Minikube / Kubernetes`  
+Coming from the public sector, I don't treat data governance as an afterthought. I bring a distinct advantage to AI engineering:
 
-**Tools:**  
-`VS Code` • `GitHub` • `Postman` • `Uvicorn`  
+Zero-Trust Engineering: Understanding how to air-gap sensitive databases from LLM reasoning loops.
 
----
+Process Discipline: Designing deterministic fail-safes and guardrails before writing the core logic.
 
-## 📌 **What’s Next for Me**
-- Build more production-grade agent systems  
-- Explore Retrieval-Augmented Generation (RAG)  
-- Deepen my understanding of embeddings & search  
-- Transition full-time into the **AI/ML industry**  
+Systems Thinking: Architecting pipelines that are robust, auditable, and resilient.
 
-If you're working in AI, ML, MLOps, or agentic systems — **I would love to connect**!
+🤝 Let’s Connect
 
----
+I am actively transitioning full-time into the private AI/ML industry and am open to roles involving AI Engineering, MLOps, and Agentic Systems.
 
-## 🤝 **Let’s Connect!**
-📌 **LinkedIn:** https://www.linkedin.com/in/akshay-sharma-5b4035aa
-📌 **GitHub:** https://github.com/AKAK555  
+📌 LinkedIn: linkedin.com/in/akshay-sharma-5b4035aa
 
----
+📌 GitHub: github.com/AKAK555
 
-### ✨ *Thanks for reading my journey. The best part? This is just the beginning.*  
+“A system is only as intelligent as the guardrails that guide it.”
